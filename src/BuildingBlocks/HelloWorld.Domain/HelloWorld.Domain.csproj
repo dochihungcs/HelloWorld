@@ -6,4 +6,13 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="SeedWork\ChangeTracking\" />
+      <Folder Include="SeedWork\Entities\Auditing\" />
+      <Folder Include="SeedWork\Entities\Caching\" />
+      <Folder Include="SeedWork\Entities\Events\" />
+      <Folder Include="SeedWork\Repositories\Dapper\" />
+      <Folder Include="SeedWork\Repositories\EntityFrameworkCore\" />
+    </ItemGroup>
+
 </Project>
